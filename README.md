@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-Web Services é uma aplicação Back-End construída durante o curso [Java COMPLETO 2023 Programação Orientada a Objetos](https://www.udemy.com/course/java-curso-completo/ "Link do curso"), curso criado pela DevSuperior.
+Web Services é uma aplicação Back-End construída durante o curso [Java COMPLETO 2023 Programação Orientada a Objetos](https://www.udemy.com/course/java-curso-completo/ "Link do curso"), criado pela DevSuperior.
 
 A aplicação consiste em um sistema de compras, onde um usuário é criado, e depois pode adicionar produtos a seu pedido, havendo também o status sobre o pagamento.
 
